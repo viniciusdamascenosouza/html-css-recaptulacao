@@ -3,6 +3,6 @@ body {
     color: #f6f6f6;
 }
 
-strong {
+.primeiro-destaque, .segundo-destaque {
     color: #22D4FD;
 }
