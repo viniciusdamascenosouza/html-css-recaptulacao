@@ -5,9 +5,18 @@
 
 body {
     background-color: #000000;
+    box-sizing: border-box;
     color: #f6f6f6;
 }
 
-.primeiro-destaque, .segundo-destaque {
+.apresentacao {
+    display: flex;
+    align-items: center;
+
+}
+
+
+.primeiro-destaque {
     color: #22D4FD;
 }
+
