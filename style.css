@@ -12,6 +12,10 @@ body {
     color: #f6f6f6;
 }
 
+a{
+    text-decoration: none;
+}
+
 .apresentacao {
     display: flex;
     align-items: center;
@@ -27,6 +31,7 @@ body {
 .apresentacao-conteudo {
     width: 615px;
 }
+
 .img-1 {
     width: 388px;
     height: 450px;
@@ -43,25 +48,14 @@ body {
 }
 
 .botao {
-    color: #000000;
-    font-size: 24px;
-    font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
-    border: 1px solid #22D4FD;
-    background: #22D4FD;
-    border-radius: 12px;
-    text-decoration: none;
-    padding: 10px 40px;
+    border: 2px solid #22D4FD;
+    border-radius: 8px;
 }
 
 .botoes {
-    margin-top: 2em;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 50px;
+
 }
 
-.botoes :hover {
+.botao :hover {
     cursor: pointer;
 }
