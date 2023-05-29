@@ -54,16 +54,24 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 2px 15px;
-    gap: 10px;
+    column-gap: 5px;
+        /* background-color: #22D4FD; */
+    width: 338px;
+    height: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .botoes {
     display: flex;
-    justify-content: space-between;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
-    row-gap: 1em;
+    gap: 32px;
 }
 
 .botao :hover {
