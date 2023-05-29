@@ -79,8 +79,11 @@ a{
 }
 
 .titulo-redes {
-    margin-bottom: 0.5em;
+    margin: 1em 0 0.5em 0;
     text-align: center;
+    font-weight: 400;
+    font-family: 'Krona One', sans-serif;
+    font-size: 24px;
 }
 
 .titulo-botao {
