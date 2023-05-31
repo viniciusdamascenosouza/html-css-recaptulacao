@@ -12,7 +12,7 @@ body {
     color: #f6f6f6;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
@@ -55,7 +55,6 @@ a{
     justify-content: center;
     align-items: center;
     column-gap: 5px;
-        /* background-color: #22D4FD; */
     width: 338px;
     height: 20px;
     text-align: center;
