@@ -65,8 +65,9 @@ a {
     font-family: 'Montserrat', sans-serif;
 }
 
-.botao :hover {
+.botao:hover {
     cursor: pointer;
+    background-color: #272727;
 }
 
 .botoes {
