@@ -89,3 +89,13 @@ a {
 .titulo-botao {
     color: #f6f6f6;
 }
+
+.rodape {
+    background-color: #22D4FD;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+}
