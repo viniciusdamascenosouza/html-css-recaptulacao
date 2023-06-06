@@ -27,12 +27,12 @@ a {
     font-size: 24px;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
-    transition: 0.5s;
+    transition: 0.1s;
 }
 
 .link-menu-cabecalho:hover {
     cursor: pointer;
-    color: #00b7ff;
+    color: #0880af;
     text-decoration: underline;
 }
 
