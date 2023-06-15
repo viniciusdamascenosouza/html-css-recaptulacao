@@ -38,6 +38,7 @@ a {
 
 .apresentacao {
     display: flex;
+    align-items: center;
     padding: 8% 10%;
 }
 
@@ -59,9 +60,9 @@ a {
     text-align: left;
 }
 
-.imagem-sobre-mim {
-    width: 388px;
-    height: 450px;
+.img-01 {
+    width: 50%;
+    height: 50%;
 }
 
 .rodape {
