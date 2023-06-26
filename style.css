@@ -124,6 +124,9 @@ a{
         padding: 6%;
         justify-content: center;
     }
+    .apresentacao-conteudo {
+        width: auto;
+    }
 }
 
 @media (max-width: 1020px) {
