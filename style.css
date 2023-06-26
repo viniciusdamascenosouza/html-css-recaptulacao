@@ -126,6 +126,7 @@ a{
     }
     .apresentacao-conteudo {
         width: auto;
+        /* igual a width: 100% irá acompanhar largura da tela */
     }
 }
 
